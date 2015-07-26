@@ -1,0 +1,17 @@
+Documentation for the project
+
+db name is test
+
+Collection name is Drivers
+
+---------------------------------------------------------------------------
+
+For Android :
+
+LocationListener interface 
+
+1) https://developers.google.com/android/reference/com/google/android/gms/location/LocationListener
+
+2) https://developers.google.com/android/reference/com/google/android/gms/location/FusedLocationProviderApi
+
+3) https://developers.google.com/android/reference/com/google/android/gms/common/api/GoogleApiClient
